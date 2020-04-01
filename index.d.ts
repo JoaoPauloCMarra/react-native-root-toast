@@ -2,7 +2,7 @@
  * typescript definition
  * @author wallel
  */
-declare module "react-native-root-toast"{
+declare module "react-native-root-toast-updated"{
     import * as React from 'react';
     import * as ReactNative from "react-native";
     import {TextStyle,StyleProp,ViewStyle} from "react-native";
