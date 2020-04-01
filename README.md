@@ -2,8 +2,11 @@
 
 -----------------------
 
+## Reason
+the original package has been abandoned as it seems, so I created this one to apply some necessary fixes.
+
  # NOTICE:
-    
+
     - react-native-root-toast >= 2.1.0 only supports react-native >= 0.47.0 , for react-native < 0.47.0 you can choose 2.0.0 or below.
 
 #### Features
