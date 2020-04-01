@@ -1,11 +1,12 @@
 {
     "version": "3.2.0",
-    "name": "react-native-root-toast",
+    "name": "react-native-root-toast-updated",
     "description": "react native toast like component, pure javascript solution",
     "repository": {
         "type": "git",
-        "url": "https://github.com/magicismight/react-native-root-toast"
+        "url": "https://github.com/JoaoPauloCMarra/react-native-root-toast"
     },
+    "author": "@magicismight / JoaoPauloCMarra <joaoapaulocmarra@gmail.com>",
     "license": "MIT",
     "main": "./index.js",
     "types": "./index.d.ts",
